@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c3e50</color>
+    <color name="colorPrimaryDark">#1B3147</color>
+    <color name="colorAccent">#3498db</color>
+
+  <color name="grey">#a0a0a0</color>
+  <color name="calendar_number">#424A56</color>
+  <color name="pink">#FF4081</color>
+  <color name="green">#388E3C</color>
+
+  <color name="grey70">#707070</color>
+  <color name="dayGrey">#C2C2C2</color>
+  <color name="dayGreen">#0EA111</color>
+  <color name="dayRed">#D4271E</color>
+  <color name="dayAmber">#FFA530</color>
+</resources>
